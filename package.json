@@ -1,0 +1,11 @@
+{
+  "name": "solve-question-by-google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
